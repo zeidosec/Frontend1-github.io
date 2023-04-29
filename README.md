@@ -25,10 +25,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - https://prnt.sc/I0O-miSrSyxj
 - https://prnt.sc/fM3BurXg0_l8
 
-
-- Solution URL: 
-- Live Site URL:
-
 ## My process
 
 - I just used internal css in this because it's just a small project.
@@ -53,7 +49,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Acknowledgments
 
-- Thanks to Kevin Powell, a great and professional teacher who lead me to this challenge (frontendmentor.io). Also thanks to my buddy Justin Munsayac who motivate me to continue frontend.
+- Thanks to Kevin Powell, a great and professional teacher who lead me to this challenge (frontendmentor.io).
 
 
 
